@@ -1,6 +1,6 @@
 # student-data-cleaner
 a basic student data cleaner using python
-# 🧼 Student Data Cleaner & Analyzer
+# Student Data Cleaner & Analyzer
 
 A beginner-friendly Python project that mimics what real data scientists do!  
 This tool cleans and analyzes a CSV file containing student records, helping you get ML-ready skills like data imputation, sorting, filtering, and more.
